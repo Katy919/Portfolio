@@ -39,5 +39,6 @@
 
 #### **Примеры работ**
 
-Чек-лист для функциональной проверки личного кабинета зарегистрированного авторизованного пользователя  (https://docs.google.com/spreadsheets/d/1T9kugfqnbcI42WBdNpfrqOgF5-E-rqvjMQ-UZjPEAIo/edit?usp=sharing)
-Тест-кейсы для проверки функционала авторизации (входа) на сайте Хендерсон (https://docs.google.com/spreadsheets/d/1Xe_g4u9tKkuWHG2hSt3CIwOMNHC38pBh8lO7gGGdxHk/edit?usp=sharing)
+[Чек-лист для функциональной проверки личного кабинета зарегистрированного авторизованного пользователя](https://docs.google.com/spreadsheets/d/1T9kugfqnbcI42WBdNpfrqOgF5-E-rqvjMQ-UZjPEAIo/edit?usp=sharing)
+
+[Тест-кейсы для проверки функционала авторизации (входа) на сайте Хендерсон](https://docs.google.com/spreadsheets/d/1Xe_g4u9tKkuWHG2hSt3CIwOMNHC38pBh8lO7gGGdxHk/edit?usp=sharing)
